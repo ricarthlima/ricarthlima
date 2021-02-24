@@ -1,4 +1,4 @@
-<img src = ".github/wonderwoman.png" width = "320px" align = "right">
+<img src = ".github/wonderwoman.png" width = "325px" align = "right">
 
 ### Hi there, I'm Ricarth Lima 👩‍💻
 
