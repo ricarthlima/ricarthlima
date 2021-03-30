@@ -10,7 +10,7 @@
 
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ).
+:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ);
 
 ⚡ **Fun fact:** I love Wonder Woman;
 
