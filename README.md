@@ -4,7 +4,7 @@
 
 🔭 **Currently work:** Computer Education for Children;
 
-:man_student: **Studying:** Information Systems at [CIN UFPE](https://portal.cin.ufpe.br/);
+:man_student: **Studying:** Information Systems at [CIn UFPE](https://portal.cin.ufpe.br/);
 
 🌱 **Learning:** Flutter, Unity, Spring;
 
