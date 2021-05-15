@@ -6,7 +6,7 @@
 
 :man_student: **Studying:** Information Systems at [CIn UFPE](https://portal.cin.ufpe.br/);
 
-🌱 **Learning:** Flutter, Unity, Spring;
+🌱 **Learning:** Flutter, Unity, Rails;
 
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
