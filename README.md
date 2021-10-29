@@ -1,36 +1,25 @@
 <img src = ".github/wonderwoman.png" width = "325px" align = "right">
 
-### Hi there, I'm Ricarth Lima 👩‍💻
+# Fala galera! Meu nome é Ricarth Lima 👩‍💻
 
-🔭 **Currently work:** Computer Education for Children;
+Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [Dotcode Edu](https://www.youtube.com/c/DotcodeEdu);
 
-:man_student: **Studying:** Information Systems at [CIn UFPE](https://portal.cin.ufpe.br/);
+:man_student: Sistemas de Informação - [CIn UFPE](https://portal.cin.ufpe.br/);
 
-🌱 **Learning:** Flutter, Unity, Rails;
+💙 Em um triângulo amoroso com **Flutter** e **Unity2D**;
 
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+🧰 Usando Git/GitHub, Unity IDE, Visual Studio Code e Firebase;
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ);
+:raising_hand_man: **Redes Sociais:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ);
 
-⚡ **Fun fact:** I love Wonder Woman;
+⚡ **Fun fact:** Sou o maior fã da Mulher Maravilha que você conhece;
 
----
-
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima" />
-</a>
-
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true" />
-</a>
-
-<!--
-**ricarthlima/ricarthlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-
--->
+---  
+<center>
+  <table>
+    <tr>
+        <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&show_icons=true&theme=dark&count_private=true" /></td>
+        <td> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&show_icons=true&theme=dark&count_private=true" /></td>
+    </tr>  
+  </table>
+</center>
